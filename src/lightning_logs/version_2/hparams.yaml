@@ -1,0 +1,12 @@
+cfg: !!python/object:config.Config
+  batch_size: 32
+  device: 0
+  learning_rate: 3.0e-05
+  max_epochs: 10
+  max_length: 256
+  n_runs: 1
+  n_test: -1
+  n_train: -1
+  ollama_url: http://localhost:11434
+  warmup_steps: 500
+  weight_decay: 0.01

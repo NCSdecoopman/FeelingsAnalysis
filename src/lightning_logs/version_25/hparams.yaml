@@ -1,0 +1,16 @@
+cfg: !!python/object:config.Config
+  accumulate_grad_batches: 8
+  backbone_lr: 6.680862909674747e-06
+  batch_size: 24
+  device: 0
+  early_stopping_patience: 3
+  learning_rate: 1.622644281884101e-05
+  max_epochs: 10
+  max_length: 512
+  n_runs: 5
+  n_test: -1
+  n_train: -1
+  ollama_url: http://localhost:11434
+  scheduler: cosine
+  warmup_steps: 500
+  weight_decay: 0.01476116145502676

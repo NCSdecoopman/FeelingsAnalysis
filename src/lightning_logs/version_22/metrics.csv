@@ -1,0 +1,2 @@
+epoch,step,train_loss,train_loss_Ambiance,train_loss_Cuisine,train_loss_Prix,train_loss_Service
+0,9,5.501700401306152,1.437628149986267,1.2675892114639282,1.3245567083358765,1.4719260931015015

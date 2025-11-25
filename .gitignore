@@ -1,0 +1,26 @@
+# Environnements virtuels
+.venv/
+venv/
+
+# Binaires / exécutables
+bin/
+
+# Données (ne garder que la structure)
+data/*
+!data/.keep
+
+# Logs (ne garder que la structure)
+*.log
+
+# Texte
+*.txt
+!requirements.txt
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Autres caches
+.ipynb_checkpoints/
