@@ -2,7 +2,7 @@
 
 Projet d'analyse de sentiments multi-aspects pour des avis de restaurants en français. Le système classifie automatiquement 4 aspects (**Prix**, **Cuisine**, **Service**, **Ambiance**) selon 4 labels : **Positive**, **Négative**, **Neutre**, **NE** (Non Exprimé).
 
-## 📊 Vue d'ensemble
+## Vue d'ensemble
 
 Ce projet implémente deux approches de classification :
 
